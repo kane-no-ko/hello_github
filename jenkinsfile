@@ -1,0 +1,3 @@
+node {
+    print "Hello World"
+}
